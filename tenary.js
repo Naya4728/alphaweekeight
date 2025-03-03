@@ -10,7 +10,7 @@ let postive = -5
 let negative = postive > 0 ? 'positive' : 'negative'
 console.log('negative:', negative)
 
-let strings = 'Hello Word'
+let strings = 'Hello World'
 let string = strings.length > 10 ? 'long' : 'short'
 console.log('string:', string)
 
